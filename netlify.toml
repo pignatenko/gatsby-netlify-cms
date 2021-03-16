@@ -5,4 +5,4 @@
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
 [backend]:
-  name = git-gateway
+  name = "git-gateway"
